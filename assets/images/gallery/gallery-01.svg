@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#222823"/><stop offset="1" stop-color="#080a09"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="930" cy="170" r="220" fill="#d8c99a" opacity=".08"/>
+<path d="M0 620 C220 470 390 690 620 540 S970 470 1200 590 V800 H0Z" fill="#101411"/>
+<path d="M0 650 C230 520 390 720 650 570 S970 520 1200 620" fill="none" stroke="#d8c99a" stroke-opacity=".25" stroke-width="2"/>
+<text x="70" y="650" fill="#f3f1e9" font-family="Arial,sans-serif" font-size="46" font-weight="700">GALLERY 01</text>
+<text x="72" y="700" fill="#b7b9b3" font-family="Arial,sans-serif" font-size="22">[GANTI DENGAN FOTO]</text>
+</svg>
